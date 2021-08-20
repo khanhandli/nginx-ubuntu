@@ -1,4 +1,5 @@
 # nginx-ubuntu
+
 1. Chuẩn bị các thông số ban đầu
 [root@athena ~]# vi /etc/sysconfig/selinux
 SELINUX=disabled
